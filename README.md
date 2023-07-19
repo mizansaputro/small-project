@@ -1,3 +1,8 @@
+## Techstacks
+
+- NextJS
+- Material UI
+
 ## Requirements
 
 Make sure you have installed these tools on your machine.
