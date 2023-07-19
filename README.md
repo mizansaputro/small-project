@@ -1,5 +1,5 @@
 ## Techstacks
-
+- TypeScript
 - NextJS
 - Material UI
 
