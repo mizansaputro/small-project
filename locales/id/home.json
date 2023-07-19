@@ -1,0 +1,16 @@
+{
+    "home-task-title": "Daftar Assignment",
+    "home-task-list-1-title": "Daftar Todo Assignment",
+    "home-task-list-1-task-1-item": "Daftar Todo",
+    "home-task-list-1-task-2-item": "Tambah Todo",
+    "home-task-list-1-task-3-item": "Ubah Todo",
+    "home-task-list-1-task-4-item": "Hapus Todo",
+    "home-task-list-2-title": "Daftar Pokemon Assignment",
+    "home-task-list-2-task-1-item": "Daftar Pokemon",
+    "home-task-list-2-task-2-item": "Lihat Detail Pokemon",
+    "home-task-list-3-title": "Halaman Invoice Assignment",
+    "home-task-list-3-task-1-item": "Detail Invoice",
+    "home-task-list-3-task-2-item": "Hitung Mundur Invoice Kadaluwarsa",
+    "home-change-language-action": "Ubah bahasa ke '{{lang}}'",
+    "home-start-action": "Mulai Sekarang"
+}

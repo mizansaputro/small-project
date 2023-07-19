@@ -1,0 +1,43 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": false,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "incremental": true,
+        "baseUrl": ".",
+        "paths": {
+            "@pages/*": ["pages/*"],
+            "@pages": ["pages"],
+            "@components/*": ["src/components/*"],
+            "@components": ["src/components"],
+            "@containers/*": ["src/containers/*"],
+            "@containers": ["src/containers"],
+            "@styles/*": ["src/styles/*"],
+            "@styles": ["src/styles"],
+            "@public/*": ["public/*"],
+            "@public": ["public"],
+            "@hooks/*": ["src/hooks/*"],
+            "@hooks": ["src/hooks"],
+            "@utils/*": ["src/utils/*"],
+            "@utils": ["src/utils"],
+            "@constants/*": ["src/constants/*"],
+            "@constants": ["src/constants"],
+            "@components/icons/*": ["src/components/icons/*"],
+            "@components/icons": ["src/components/icons"],
+            "@datastore/*": ["src/datastore/*"],
+            "@i18n": ["i18n.js"]
+        }
+    },
+    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts"],
+    "exclude": ["node_modules", "sdet/*"]
+}

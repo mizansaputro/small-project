@@ -1,0 +1,119 @@
+{
+    "message": "invoice found",
+    "data": {
+        "id": "597fa08e-d4b8-491d-8389-16c7e2e0cfb8",
+        "invoice_number": "INV-010223-0640-20859",
+        "amount": "85000.00",
+        "sub_amount": "85000.00",
+        "discount": "0.00",
+        "end_period": "2023-02-02T06:40:19.843Z",
+        "status": "waiting_payment",
+        "interval_type": "monthly",
+        "product_name": "Rey Outpatient Care",
+        "product_type": "quotations",
+        "payment_method": "virtual_account",
+        "payment_detail": {
+            "ref_id": "63da096d3017cc7534ad0e66",
+            "va_bank": "BCA",
+            "va_number": "107669999715139",
+            "va_status": "ACTIVE"
+        },
+        "member_name": "Test Expired",
+        "member_phone_number": "+62812345123151",
+        "member_address": {
+            "city": "KABUPATEN SERANG",
+            "address": "Alamat Lengkap",
+            "city_id": 3604,
+            "district": "BINUANG",
+            "province": "BANTEN",
+            "district_id": 360418,
+            "postal_code": "12412",
+            "province_id": 36,
+            "sub_district": "GEMBOR",
+            "sub_district_id": 3604182004
+        },
+        "created_at": "2023-02-01T06:40:20.859Z",
+        "total_period": 1,
+        "entity_type": "quotations",
+        "products": [
+            {
+                "id": "REYOPC004",
+                "tier": 4,
+                "type": "outpatient",
+                "price": 85000,
+                "product": "Rey Outpatient Care",
+                "tier_name": "Diamond"
+            }
+        ],
+        "family_member": [
+            {
+                "age": 17,
+                "name": "Test Expired",
+                "role": "primary",
+                "email": "ndontest+54@yopmail.com",
+                "address": {
+                    "city": "KABUPATEN SERANG",
+                    "address": "Alamat Lengkap",
+                    "city_id": 3604,
+                    "district": "BINUANG",
+                    "province": "BANTEN",
+                    "district_id": 360418,
+                    "postal_code": "12412",
+                    "province_id": 36,
+                    "sub_district": "GEMBOR",
+                    "sub_district_id": 3604182004
+                },
+                "user_id": null,
+                "products": [
+                    {
+                        "id": "REYOPC004",
+                        "price": 85000,
+                        "product": "Rey Outpatient Care"
+                    }
+                ],
+                "relation": "SELF",
+                "birthdate": "2006-01-03",
+                "phone_number": "+62812345123151"
+            }
+        ],
+        "discount_meta": [],
+        "payment": {
+            "id": "c23b2051-bb62-475b-997f-c60acdb5362a",
+            "transaction_id": "d073adc2-6f11-4279-af75-daaa3cde6709",
+            "invoice_id": "597fa08e-d4b8-491d-8389-16c7e2e0cfb8",
+            "ref_id": "63da096d3017cc7534ad0e66",
+            "payment_method": "virtual_account",
+            "provider": "xendit",
+            "amount": "85000.00",
+            "status": "waiting_payment",
+            "expires_at": "2023-02-02T06:40:19.843Z",
+            "paid_at": null,
+            "payment_detail": {
+                "ref_id": "63da096d3017cc7534ad0e66",
+                "va_bank": "BCA",
+                "va_number": "107669999715139",
+                "va_status": "ACTIVE"
+            },
+            "payment_request_detail": {
+                "id": "63da096d3017cc7534ad0e66",
+                "name": "Rey ID",
+                "status": "PENDING",
+                "country": "ID",
+                "currency": "IDR",
+                "owner_id": "6080bc8d5503284104425e0e",
+                "bank_code": "BCA",
+                "is_closed": true,
+                "external_id": "c23b2051-bb62-475b-997f-c60acdb5362a",
+                "is_single_use": true,
+                "merchant_code": "10766",
+                "account_number": "107669999715139",
+                "expected_amount": 85000,
+                "expiration_date": "2023-02-02T06:40:19.843Z"
+            },
+            "created_at": "2023-02-01T06:40:45.195Z",
+            "updated_at": "2023-02-01T06:40:46.550Z",
+            "deleted_at": null,
+            "invoiceId": "597fa08e-d4b8-491d-8389-16c7e2e0cfb8"
+        }
+    }
+}

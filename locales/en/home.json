@@ -1,0 +1,16 @@
+{
+    "home-task-title": "List Assignment",
+    "home-task-list-1-title": "Todo List Assignment",
+    "home-task-list-1-task-1-item": "List Todo",
+    "home-task-list-1-task-2-item": "Add Todo",
+    "home-task-list-1-task-3-item": "Edit Todo",
+    "home-task-list-1-task-4-item": "Remove Todo",
+    "home-task-list-2-title": "Pokemon List Assignment",
+    "home-task-list-2-task-1-item": "List Pokemon",
+    "home-task-list-2-task-2-item": "Detail Pokemon",
+    "home-task-list-3-title": "Invoice Page Assignment",
+    "home-task-list-3-task-1-item": "Detail Invoice",
+    "home-task-list-3-task-2-item": "Countdown Invoice Expired",
+    "home-change-language-action": "Change Language to '{{lang}}'",
+    "home-start-action": "Start Now"
+}

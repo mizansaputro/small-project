@@ -1,0 +1,26 @@
+{
+    "error-500-message": "Terjadi kesalahan dalam sistem, silakan coba lagi jika masih berlanjut hubungi hello@rey.id!",
+    "error-500-min-message": "Terjadi kesalahan dalam sistem, silakan coba lagi.",
+    "error-too-many-request": "Maaf, Rey masih memproses data kamu. Mohon tunggu {{time}} detik.",
+
+    "general-per-page": "Baris per halaman",
+    "general-input-search": "Cari...",
+
+    "text-language-id": "Bahasa Indonesia",
+    "text-language-en": "English",
+
+    "seo--title": "SEO Title Placeholder",
+    "seo-home-title": "Halaman Utama",
+
+    "menu-my-profile": "Profil Saya",
+    "menu-logout": "Keluar",
+
+    "home-banner-title": "Semua solusi kesehatan kamu dalam satu aplikasi saja",
+    "home-banner-description": "Rey ingin memberikan pengalaman kesehatan yang lebih menyeluruh. Dalam satu aplikasi saja, kamu bisa mendapatkan bantuan perawatan ketika sakit, akses untuk berbagai pilihan proteksi kesehatan, hingga fitur yang bisa meningkatkan kualitas hidup sehatmu. Yuk, cek sendiri aplikasinya untuk merasakan manfaatnya!",
+
+    "whatsapp-floating-dialog": "Masih ingin tahu? Jangan ragu untuk berbincang dengan Rey.",
+    "whatsapp-floating-cta": "Hello Rey!",
+
+    "maintenance-title": "Sedang Dalam Perbaikan",
+    "maintenance-description": "Apabila masih berlanjut, Silahkan hubungi kami melalui email <a href='mailto:hello@rey.id' style={{color: '#CC3366'}}> <b>hello@rey.id</b></a>. atau chat langsung ke <a href='{{url}}' style={{color: '#CC3366'}}> <b>WhatsApp</b>.</a>"
+}
